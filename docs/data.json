@@ -1,6 +1,28 @@
 [
   {
     "platform": "Codeforces",
+    "id": "2170B",
+    "name": "Addition on a Segment",
+    "url": "https://codeforces.com/problemset/problem/2170/B",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "language": "cpp",
+    "solution_file": "solutions/codeforces/2170b-addition-on-a-segment/solution.cpp",
+    "readme_file": "solutions/codeforces/2170b-addition-on-a-segment/README.md",
+    "slug": "2170b-addition-on-a-segment",
+    "approach": "Accepted cpp solution for Addition on a Segment. The implementation is documented from the final accepted code.",
+    "time_complexity": "See solution",
+    "space_complexity": "See solution",
+    "notes": "Generated without Ollama. Enable Ollama in CPOS settings for a richer explanation.",
+    "code_hash": "0bd81627a6796afd",
+    "accepted_at": "2026-06-05T11:50:27+00:00",
+    "published_at": "2026-06-05T18:48:27.547275+00:00"
+  },
+  {
+    "platform": "Codeforces",
     "id": "2181H",
     "name": "Honey Cake",
     "url": "https://codeforces.com/problemset/problem/2181/H",
