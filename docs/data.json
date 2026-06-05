@@ -1,6 +1,29 @@
 [
   {
     "platform": "Codeforces",
+    "id": "2189B",
+    "name": "The Curse of the Frog",
+    "url": "https://codeforces.com/problemset/problem/2189/B",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ],
+    "language": "cpp",
+    "solution_file": "solutions/codeforces/2189b-the-curse-of-the-frog/solution.cpp",
+    "readme_file": "solutions/codeforces/2189b-the-curse-of-the-frog/README.md",
+    "slug": "2189b-the-curse-of-the-frog",
+    "approach": "Accepted cpp solution for The Curse of the Frog. The implementation is documented from the final accepted code.",
+    "time_complexity": "See solution",
+    "space_complexity": "See solution",
+    "notes": "Generated without Ollama. Enable Ollama in CPOS settings for a richer explanation.",
+    "code_hash": "2e711f3b3d6f72f5",
+    "accepted_at": "2026-06-05T09:23:21+00:00",
+    "published_at": "2026-06-05T18:48:30.221036+00:00"
+  },
+  {
+    "platform": "Codeforces",
     "id": "2170B",
     "name": "Addition on a Segment",
     "url": "https://codeforces.com/problemset/problem/2170/B",
