@@ -4,9 +4,9 @@
 
 **Language:** cpp
 
-**Rating:** 1200
+**Rating:** unrated
 
-**Tags:** brute force, math, number theory
+**Tags:** none
 
 ## Approach
 
