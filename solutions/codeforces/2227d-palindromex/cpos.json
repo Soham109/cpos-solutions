@@ -1,0 +1,27 @@
+{
+  "platform": "Codeforces",
+  "id": "2227D",
+  "name": "Palindromex",
+  "url": "https://codeforces.com/problemset/problem/2227/D",
+  "rating": 1200,
+  "tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "language": "cpp",
+  "solution_file": "solutions/codeforces/2227d-palindromex/solution.cpp",
+  "readme_file": "solutions/codeforces/2227d-palindromex/README.md",
+  "slug": "2227d-palindromex",
+  "approach": "Accepted cpp solution for Palindromex. The implementation is documented from the final accepted code.",
+  "time_complexity": "See solution",
+  "space_complexity": "See solution",
+  "notes": "Generated without Ollama. Enable Ollama in CPOS settings for a richer explanation.",
+  "code_hash": "ada7650983ee32cb",
+  "accepted_at": "2026-06-04T16:51:33+00:00",
+  "published_at": "2026-06-05T18:48:32.750409+00:00"
+}
