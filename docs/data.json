@@ -1,0 +1,25 @@
+[
+  {
+    "platform": "Codeforces",
+    "id": "2181H",
+    "name": "Honey Cake",
+    "url": "https://codeforces.com/problemset/problem/2181/H",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ],
+    "language": "cpp",
+    "solution_file": "solutions/codeforces/2181h-honey-cake/solution.cpp",
+    "readme_file": "solutions/codeforces/2181h-honey-cake/README.md",
+    "slug": "2181h-honey-cake",
+    "approach": "Accepted cpp solution for Honey Cake. The implementation is documented from the final accepted code.",
+    "time_complexity": "See solution",
+    "space_complexity": "See solution",
+    "notes": "Generated without Ollama. Enable Ollama in CPOS settings for a richer explanation.",
+    "code_hash": "556ab7bb244d8573",
+    "accepted_at": "2026-06-05T18:28:23.306686+00:00",
+    "published_at": "2026-06-05T18:28:23.625394+00:00"
+  }
+]
