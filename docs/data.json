@@ -1,6 +1,25 @@
 [
   {
     "platform": "Codeforces",
+    "id": "2181H",
+    "name": "Honey Cake",
+    "url": "https://codeforces.com/problemset/problem/2181/H",
+    "rating": null,
+    "tags": [],
+    "language": "cpp",
+    "solution_file": "solutions/codeforces/2181h-honey-cake/solution.cpp",
+    "readme_file": "solutions/codeforces/2181h-honey-cake/README.md",
+    "slug": "2181h-honey-cake",
+    "approach": "Accepted cpp solution for Honey Cake. The implementation is documented from the final accepted code.",
+    "time_complexity": "See solution",
+    "space_complexity": "See solution",
+    "notes": "Generated without Ollama. Enable Ollama in CPOS settings for a richer explanation.",
+    "code_hash": "cc033c084796c895",
+    "accepted_at": null,
+    "published_at": "2026-06-05T18:56:08.527689+00:00"
+  },
+  {
+    "platform": "Codeforces",
     "id": "2227D",
     "name": "Palindromex",
     "url": "https://codeforces.com/problemset/problem/2227/D",
@@ -70,24 +89,5 @@
     "code_hash": "0bd81627a6796afd",
     "accepted_at": "2026-06-05T11:50:27+00:00",
     "published_at": "2026-06-05T18:48:27.547275+00:00"
-  },
-  {
-    "platform": "Codeforces",
-    "id": "2181H",
-    "name": "Honey Cake",
-    "url": "https://codeforces.com/problemset/problem/2181/H",
-    "rating": null,
-    "tags": [],
-    "language": "cpp",
-    "solution_file": "solutions/codeforces/2181h-honey-cake/solution.cpp",
-    "readme_file": "solutions/codeforces/2181h-honey-cake/README.md",
-    "slug": "2181h-honey-cake",
-    "approach": "Accepted cpp solution for Honey Cake. The implementation is documented from the final accepted code.",
-    "time_complexity": "See solution",
-    "space_complexity": "See solution",
-    "notes": "Generated without Ollama. Enable Ollama in CPOS settings for a richer explanation.",
-    "code_hash": "556ab7bb244d8573",
-    "accepted_at": null,
-    "published_at": "2026-06-05T18:38:28.952060+00:00"
   }
 ]
