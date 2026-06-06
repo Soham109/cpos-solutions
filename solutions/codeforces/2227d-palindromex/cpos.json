@@ -13,15 +13,15 @@
     "implementation",
     "two pointers"
   ],
-  "language": "cpp",
+  "language": "go",
   "solution_file": "solutions/codeforces/2227d-palindromex/solution.cpp",
   "readme_file": "solutions/codeforces/2227d-palindromex/README.md",
   "slug": "2227d-palindromex",
-  "approach": "Accepted cpp solution for Palindromex. The implementation is documented from the final accepted code.",
+  "approach": "Accepted go solution for Palindromex. The implementation is documented from the final accepted code.",
   "time_complexity": "See solution",
   "space_complexity": "See solution",
   "notes": "Generated without Ollama. Enable Ollama in CPOS settings for a richer explanation.",
-  "code_hash": "ada7650983ee32cb",
-  "accepted_at": "2026-06-04T16:51:33+00:00",
-  "published_at": "2026-06-05T18:48:32.750409+00:00"
+  "code_hash": "93bbbc7d154d3a5f",
+  "accepted_at": "2026-06-06T10:47:40+00:00",
+  "published_at": "2026-06-06T11:40:33.669075+00:00"
 }

@@ -2,7 +2,7 @@
 
 **Problem:** [Palindromex](https://codeforces.com/problemset/problem/2227/D)
 
-**Language:** cpp
+**Language:** go
 
 **Rating:** 1200
 
@@ -10,7 +10,7 @@
 
 ## Approach
 
-Accepted cpp solution for Palindromex. The implementation is documented from the final accepted code.
+Accepted go solution for Palindromex. The implementation is documented from the final accepted code.
 
 ## Complexity
 
