@@ -1,0 +1,22 @@
+{
+  "platform": "Codeforces",
+  "id": "2232A",
+  "name": "Convergence",
+  "url": "https://codeforces.com/problemset/problem/2232/A",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "language": "cpp",
+  "solution_file": "solutions/codeforces/2232a-convergence/solution.cpp",
+  "readme_file": "solutions/codeforces/2232a-convergence/README.md",
+  "slug": "2232a-convergence",
+  "approach": "Accepted cpp solution for Convergence. The implementation is documented from the final accepted code.",
+  "time_complexity": "See solution",
+  "space_complexity": "See solution",
+  "notes": "Generated without Ollama. Enable Ollama in CPOS settings for a richer explanation.",
+  "code_hash": "aa8f46c4f4a33c91",
+  "accepted_at": "2026-05-30T14:49:10+00:00",
+  "published_at": "2026-06-06T16:55:52.194440+00:00"
+}
