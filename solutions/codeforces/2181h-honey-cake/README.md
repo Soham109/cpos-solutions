@@ -2,15 +2,15 @@
 
 **Problem:** [Honey Cake](https://codeforces.com/problemset/problem/2181/H)
 
-**Language:** cpp
+**Language:** go
 
-**Rating:** unrated
+**Rating:** 1200
 
-**Tags:** none
+**Tags:** brute force, math, number theory
 
 ## Approach
 
-Accepted cpp solution for Honey Cake. The implementation is documented from the final accepted code.
+Accepted go solution for Honey Cake. The implementation is documented from the final accepted code.
 
 ## Complexity
 
